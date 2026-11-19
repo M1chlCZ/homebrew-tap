@@ -1,8 +1,8 @@
 class Skillup < Formula
   desc "Inspect and update installed AI agent skills"
   homepage "https://github.com/M1chlCZ/skill-updater"
-  url "https://github.com/M1chlCZ/skill-updater/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f3a2d3ee9b5776a36fe233d372133c261423f38df133dd34ab10324d2caa7949"
+  url "https://github.com/M1chlCZ/skill-updater/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "95e7006b4f57eb105a9a31b265fa1a3b04612a0c12966a62c2d09f09e38bd777"
   license "MIT"
 
   depends_on "go" => :build
